@@ -1,4 +1,4 @@
-namespace SingleResponsability
+namespace SingleResponsability.Models.Person
 {
     public class Person
     {
