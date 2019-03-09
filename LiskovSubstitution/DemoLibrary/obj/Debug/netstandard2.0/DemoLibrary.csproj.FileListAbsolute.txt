@@ -1,0 +1,9 @@
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.csprojAssemblyReference.cache
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.AssemblyInfoInputs.cache
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.AssemblyInfo.cs
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/bin/Debug/netstandard2.0/DemoLibrary.deps.json
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/bin/Debug/netstandard2.0/DemoLibrary.dll
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/bin/Debug/netstandard2.0/DemoLibrary.pdb
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.dll
+/home/cafeina/source codes/SOLID/LiskovSubstitution/DemoLibrary/obj/Debug/netstandard2.0/DemoLibrary.pdb
