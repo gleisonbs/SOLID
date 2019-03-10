@@ -1,0 +1,9 @@
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.csprojAssemblyReference.cache
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.csproj.CoreCompileInputs.cache
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.AssemblyInfoInputs.cache
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.AssemblyInfo.cs
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/bin/Debug/netstandard2.0/DIPLibrary.deps.json
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/bin/Debug/netstandard2.0/DIPLibrary.dll
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/bin/Debug/netstandard2.0/DIPLibrary.pdb
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.dll
+/home/cafeina/source codes/SOLID/DependencyInversion/DIPLibrary/obj/Debug/netstandard2.0/DIPLibrary.pdb
